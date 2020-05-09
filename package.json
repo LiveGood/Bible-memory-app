@@ -1,0 +1,19 @@
+{
+  "name": "bible-to-db",
+  "version": "1.0.0",
+  "description": "Little project trying to save the bible to a MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiveGood/Bible-to-DB.git"
+  },
+  "author": "Deyan Dachev <FleshThps@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiveGood/Bible-to-DB/issues"
+  },
+  "homepage": "https://github.com/LiveGood/Bible-to-DB#readme"
+}
