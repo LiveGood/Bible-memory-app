@@ -1,8 +1,8 @@
 {
   "name": "bible-to-db",
   "version": "1.0.0",
-  "description": "Little project trying to save the bible to a MongoDB",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,22 @@
   "bugs": {
     "url": "https://github.com/LiveGood/Bible-to-DB/issues"
   },
-  "homepage": "https://github.com/LiveGood/Bible-to-DB#readme"
+  "homepage": "https://github.com/LiveGood/Bible-to-DB#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "@tarekraafat/autocomplete.js": "^7.2.0",
+    "axios": "^0.19.2",
+    "consolidate": "^0.15.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "stringinject": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }

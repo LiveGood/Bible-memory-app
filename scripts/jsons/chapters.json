@@ -1,0 +1,334 @@
+{
+  "chapters": [
+    {
+      "name": "Genesis",
+      "bookId": "GEN",
+      "chaptersLength": 50
+    },
+    {
+      "name": "Exodus",
+      "bookId": "EXO",
+      "chaptersLength": 40
+    },
+    {
+      "name": "Leviticus",
+      "bookId": "LEV",
+      "chaptersLength": 27
+    },
+    {
+      "name": "Numbers",
+      "bookId": "NUM",
+      "chaptersLength": 36
+    },
+    {
+      "name": "Deuteronomy",
+      "bookId": "DEU",
+      "chaptersLength": 34
+    },
+    {
+      "name": "Joshua",
+      "bookId": "JOS",
+      "chaptersLength": 24
+    },
+    {
+      "name": "Judges",
+      "bookId": "JDG",
+      "chaptersLength": 21
+    },
+    {
+      "name": "Ruth",
+      "bookId": "RUT",
+      "chaptersLength": 4
+    },
+    {
+      "name": "1 Samuel",
+      "bookId": "1SA",
+      "chaptersLength": 31
+    },
+    {
+      "name": "2 Samuel",
+      "bookId": "2SA",
+      "chaptersLength": 24
+    },
+    {
+      "name": "1 Kings",
+      "bookId": "1KI",
+      "chaptersLength": 22
+    },
+    {
+      "name": "2 Kings",
+      "bookId": "2KI",
+      "chaptersLength": 25
+    },
+    {
+      "name": "1 Chronicles",
+      "bookId": "1CH",
+      "chaptersLength": 29
+    },
+    {
+      "name": "2 Chronicles",
+      "bookId": "2CH",
+      "chaptersLength": 36
+    },
+    {
+      "name": "Ezra",
+      "bookId": "EZR",
+      "chaptersLength": 10
+    },
+    {
+      "name": "Nehemiah",
+      "bookId": "NEH",
+      "chaptersLength": 13
+    },
+    {
+      "name": "Esther",
+      "bookId": "EST",
+      "chaptersLength": 10
+    },
+    {
+      "name": "Job",
+      "bookId": "JOB",
+      "chaptersLength": 42
+    },
+    {
+      "name": "Psalms",
+      "bookId": "PSA",
+      "chaptersLength": 150
+    },
+    {
+      "name": "Proverbs",
+      "bookId": "PRO",
+      "chaptersLength": 31
+    },
+    {
+      "name": "Ecclesiastes",
+      "bookId": "ECC",
+      "chaptersLength": 12
+    },
+    {
+      "name": "Song of Solomon",
+      "bookId": "SNG",
+      "chaptersLength": 8
+    },
+    {
+      "name": "Isaiah",
+      "bookId": "ISA",
+      "chaptersLength": 66
+    },
+    {
+      "name": "Jeremiah",
+      "bookId": "JER",
+      "chaptersLength": 52
+    },
+    {
+      "name": "Lamentations",
+      "bookId": "LAM",
+      "chaptersLength": 5
+    },
+    {
+      "name": "Ezekiel",
+      "bookId": "EZK",
+      "chaptersLength": 48
+    },
+    {
+      "name": "Daniel",
+      "bookId": "DAN",
+      "chaptersLength": 12
+    },
+    {
+      "name": "Hosea",
+      "bookId": "HOS",
+      "chaptersLength": 14
+    },
+    {
+      "name": "Joel",
+      "bookId": "JOL",
+      "chaptersLength": 3
+    },
+    {
+      "name": "Amos",
+      "bookId": "AMO",
+      "chaptersLength": 9
+    },
+    {
+      "name": "Obadiah",
+      "bookId": "OBA",
+      "chaptersLength": 1
+    },
+    {
+      "name": "Jonah",
+      "bookId": "JON",
+      "chaptersLength": 4
+    },
+    {
+      "name": "Micah",
+      "bookId": "MIC",
+      "chaptersLength": 7
+    },
+    {
+      "name": "Nahum",
+      "bookId": "NAM",
+      "chaptersLength": 3
+    },
+    {
+      "name": "Habakkuk",
+      "bookId": "HAB",
+      "chaptersLength": 3
+    },
+    {
+      "name": "Zephaniah",
+      "bookId": "ZEP",
+      "chaptersLength": 3
+    },
+    {
+      "name": "Haggai",
+      "bookId": "HAG",
+      "chaptersLength": 2
+    },
+    {
+      "name": "Zechariah",
+      "bookId": "ZEC",
+      "chaptersLength": 14
+    },
+    {
+      "name": "Malachi",
+      "bookId": "MAL",
+      "chaptersLength": 4
+    },
+    {
+      "name": "Matthew",
+      "bookId": "MAT",
+      "chaptersLength": 28
+    },
+    {
+      "name": "Mark",
+      "bookId": "MRK",
+      "chaptersLength": 16
+    },
+    {
+      "name": "Luke",
+      "bookId": "LUK",
+      "chaptersLength": 24
+    },
+    {
+      "name": "John",
+      "bookId": "JHN",
+      "chaptersLength": 21
+    },
+    {
+      "name": "Acts",
+      "bookId": "ACT",
+      "chaptersLength": 28
+    },
+    {
+      "name": "Romans",
+      "bookId": "ROM",
+      "chaptersLength": 16
+    },
+    {
+      "name": "1 Corinthians",
+      "bookId": "1CO",
+      "chaptersLength": 16
+    },
+    {
+      "name": "2 Corinthians",
+      "bookId": "2CO",
+      "chaptersLength": 13
+    },
+    {
+      "name": "Galatians",
+      "bookId": "GAL",
+      "chaptersLength": 6
+    },
+    {
+      "name": "Ephesians",
+      "bookId": "EPH",
+      "chaptersLength": 6
+    },
+    {
+      "name": "Philippians",
+      "bookId": "PHP",
+      "chaptersLength": 4
+    },
+    {
+      "name": "Colossians",
+      "bookId": "COL",
+      "chaptersLength": 4
+    },
+    {
+      "name": "1 Thessalonians",
+      "bookId": "1TH",
+      "chaptersLength": 5
+    },
+    {
+      "name": "2 Thessalonians",
+      "bookId": "2TH",
+      "chaptersLength": 3
+    },
+    {
+      "name": "1 Timothy",
+      "bookId": "1TI",
+      "chaptersLength": 6
+    },
+    {
+      "name": "2 Timothy",
+      "bookId": "2TI",
+      "chaptersLength": 4
+    },
+    {
+      "name": "Titus",
+      "bookId": "TIT",
+      "chaptersLength": 3
+    },
+    {
+      "name": "Philemon",
+      "bookId": "PHM",
+      "chaptersLength": 1
+    },
+    {
+      "name": "Hebrews",
+      "bookId": "HEB",
+      "chaptersLength": 13
+    },
+    {
+      "name": "James",
+      "bookId": "JAS",
+      "chaptersLength": 5
+    },
+    {
+      "name": "1 Peter",
+      "bookId": "1PE",
+      "chaptersLength": 5
+    },
+    {
+      "name": "2 Peter",
+      "bookId": "2PE",
+      "chaptersLength": 3
+    },
+    {
+      "name": "1 John",
+      "bookId": "1JN",
+      "chaptersLength": 5
+    },
+    {
+      "name": "2 John",
+      "bookId": "2JN",
+      "chaptersLength": 1
+    },
+    {
+      "name": "3 John",
+      "bookId": "3JN",
+      "chaptersLength": 1
+    },
+    {
+      "name": "Jude",
+      "bookId": "JUD",
+      "chaptersLength": 1
+    },
+    {
+      "name": "Revelation",
+      "bookId": "REV",
+      "chaptersLength": 22
+    }
+  ]
+}

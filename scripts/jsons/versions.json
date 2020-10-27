@@ -1,0 +1,564 @@
+{
+  "versions": {
+    "NendNP03": {
+      "id": "0c2ff0a5c8b9069c-01",
+      "abbreviation": "NendNP03",
+      "name": "Nend Portions - Mark"
+    },
+    "arp": {
+      "id": "b7ad344da9c39262-01",
+      "abbreviation": "arp",
+      "name": "Arapaho Luke"
+    },
+    "IRVAsm": {
+      "id": "d199679f805f5b29-01",
+      "abbreviation": "IRVAsm",
+      "name": "Indian Revised Version (IRV) Assamese - 2019"
+    },
+    "NTPrv": {
+      "id": "17c44f6c89de00db-01",
+      "abbreviation": "НЗПрп",
+      "name": "Belarusian New Testament and Proverbs"
+    },
+    "BBL": {
+      "id": "b52bc8b7af3bdc6f-03",
+      "abbreviation": "ББЛ",
+      "name": "Bible (V. Semukha translation)"
+    },
+    "IRVBen": {
+      "id": "4c3eda00cd317568-01",
+      "abbreviation": "IRVBen",
+      "name": "Indian Revised Version (IRV) Bengali"
+    },
+    "beo": {
+      "id": "55bab459b716348c-01",
+      "abbreviation": "BEO",
+      "name": "Bedamuni Bible"
+    },
+    "bla1890": {
+      "id": "6855dabfcb711cc2-01",
+      "abbreviation": "bla1890",
+      "name": "Blackfoot Matthew"
+    },
+    "Baga": {
+      "id": "71d2075d284c4eae-01",
+      "abbreviation": "KKK",
+      "name": "God's Holy Book"
+    },
+    "ces1613": {
+      "id": "c61908161b077c4c-01",
+      "abbreviation": "BKR",
+      "name": "Czech Kralická Bible 1613"
+    },
+    "Kwere": {
+      "id": "dca01eb41e39d25d-01",
+      "abbreviation": "Kwere",
+      "name": "The New Testament in Kwere"
+    },
+    "deuelo": {
+      "id": "95410db44ef800c1-01",
+      "abbreviation": "ELO",
+      "name": "German Unrevised Elberfelder Bible"
+    },
+    "deutkw": {
+      "id": "542b32484b6e38c2-01",
+      "abbreviation": "TKW",
+      "name": "The Holy Bible in German, translation by Kautzsch und Weizsäcker 1906"
+    },
+    "DWNT": {
+      "id": "e578524a0893c6b7-01",
+      "abbreviation": "DWNT",
+      "name": "Dawro New Testament"
+    },
+    "engLXXup": {
+      "id": "6bab4d6c61b31b80-01",
+      "abbreviation": "LXXup",
+      "name": "Brenton English Septuagint (Updated Spelling and Formatting)"
+    },
+    "engbrent": {
+      "id": "65bfdebd704a8324-01",
+      "abbreviation": "Brenton",
+      "name": "Brenton English translation of the Septuagint"
+    },
+    "engKJVCPB": {
+      "id": "55212e3cf5d04d49-01",
+      "abbreviation": "KJVCPB",
+      "name": "Cambridge Paragraph Bible of the KJV"
+    },
+    "engDRA": {
+      "id": "179568874c45066f-01",
+      "abbreviation": "DRA",
+      "name": "Douay-Rheims American 1899"
+    },
+    "engEMTV": {
+      "id": "55ec700d9e0d77ea-01",
+      "abbreviation": "EMTV",
+      "name": "English Majority Text Version"
+    },
+    "FBV": {
+      "id": "65eec8e0b60e656b-01",
+      "abbreviation": "FBV",
+      "name": "Free Bible Version"
+    },
+    "enggnv": {
+      "id": "c315fa9f71d4af3a-01",
+      "abbreviation": "GNV",
+      "name": "Geneva Bible"
+    },
+    "engojps": {
+      "id": "bf8f1c7f3f9045a5-01",
+      "abbreviation": "OJPS",
+      "name": "JPS TaNaKH 1917"
+    },
+    "engKJV": {
+      "id": "de4e12af7f28f599-02",
+      "abbreviation": "KJV",
+      "name": "King James (Authorised) Version"
+    },
+    "engRV": {
+      "id": "40072c4a5aba4022-01",
+      "abbreviation": "RV",
+      "name": "Revised Version 1885"
+    },
+    "engOKE": {
+      "id": "ec290b5045ff54a5-01",
+      "abbreviation": "OKE",
+      "name": "Targum Onkelos Etheridge"
+    },
+    "engF35": {
+      "id": "2f0fd81d7b85b923-01",
+      "abbreviation": "F35",
+      "name": "The English New Testament According to Family 35"
+    },
+    "ASV": {
+      "id": "06125adad2d5898a-01",
+      "abbreviation": "ASV",
+      "name": "The Holy Bible, American Standard Version"
+    },
+    "T4T": {
+      "id": "66c22495370cdfc0-01",
+      "abbreviation": "T4T",
+      "name": "Translation for Translators"
+    },
+    "WEB": {
+      "id": "9879dbb7cfe39e4d-04",
+      "abbreviation": "WEB",
+      "name": "World English Bible"
+    },
+    "WEBBE": {
+      "id": "7142879509583d59-04",
+      "abbreviation": "WEBBE",
+      "name": "World English Bible British Edition"
+    },
+    "WMB": {
+      "id": "f72b840c855f362c-04",
+      "abbreviation": "WMB",
+      "name": "World Messianic Bible"
+    },
+    "WMBBE": {
+      "id": "04da588535d2f823-04",
+      "abbreviation": "WMBBE",
+      "name": "World Messianic Bible British Edition"
+    },
+    "PFJV": {
+      "id": "9b076bc0f1856204-01",
+      "abbreviation": "VPFJ",
+      "name": "Pular Fuuta-Jallon Version"
+    },
+    "MbKamNT": {
+      "id": "da905e46720432e2-01",
+      "abbreviation": "MbKamNT",
+      "name": "New Testament in Mborena Kam"
+    },
+    "KirNT": {
+      "id": "e8b818f49c7c2835-01",
+      "abbreviation": "KirNT",
+      "name": "The New Testament in Kire"
+    },
+    "grcbrent": {
+      "id": "c114c33098c4fef1-01",
+      "abbreviation": "GRCBRENT",
+      "name": "Brenton Greek Septuagint"
+    },
+    "GRCTR": {
+      "id": "3aefb10641485092-01",
+      "abbreviation": "GRCTR",
+      "name": "Greek Textus Receptus"
+    },
+    "grcF35": {
+      "id": "5e29945cf530b0f6-01",
+      "abbreviation": "F35",
+      "name": "The Greek New Testament According to Family 35"
+    },
+    "gujBCS": {
+      "id": "3548ab6114a312d4-02",
+      "abbreviation": "GUJBCS",
+      "name": "Gujarati Bible"
+    },
+    "guj": {
+      "id": "3548ab6114a312d4-01",
+      "abbreviation": "GUJ",
+      "name": "Gujarati New Testament"
+    },
+    "hinirv": {
+      "id": "705aad6832c6e4d2-02",
+      "abbreviation": "HINIRV",
+      "name": "The Holy Bible in Hindi"
+    },
+    "TSI": {
+      "id": "2dd568eeff29fb3c-01",
+      "abbreviation": "TSI",
+      "name": "Terjemahan Sederhana Indonesia NT Second Edition"
+    },
+    "DB1885": {
+      "id": "41f25b97f468e10b-01",
+      "abbreviation": "DB1885",
+      "name": "Diodati Bible 1885"
+    },
+    "IRVKan": {
+      "id": "a33a100f04f2752e-01",
+      "abbreviation": "IRVKan",
+      "name": "Indian Revised Version (IRV) Kannada - 2019"
+    },
+    "Kutu": {
+      "id": "f2f349d77ac8f8bc-01",
+      "abbreviation": "Kutu",
+      "name": "The New Testament in Kutu"
+    },
+    "Makonde": {
+      "id": "c11c93a0b8a04496-01",
+      "abbreviation": "Makonde",
+      "name": "Makonde NT"
+    },
+    "kpg": {
+      "id": "df7d5d71526afe9e-01",
+      "abbreviation": "kpg",
+      "name": "Kapingamarangi Bible"
+    },
+    "MumNP18": {
+      "id": "5591cba5ae063228-01",
+      "abbreviation": "MumNP18",
+      "name": "Mum Language NT Portions"
+    },
+    "KBNT": {
+      "id": "6aa52b968434d882-01",
+      "abbreviation": "KBNT",
+      "name": "The Book of Mark - Kianying Balang"
+    },
+    "malirv": {
+      "id": "9f78f34aabe691c9-02",
+      "abbreviation": "MALIRV",
+      "name": "Malayalam Indian Revised Version Bible"
+    },
+    "IRVMar": {
+      "id": "8c49129a458d4059-01",
+      "abbreviation": "IRVMar",
+      "name": "Indian Revised Version (IRV) - Marathi"
+    },
+    "MB": {
+      "id": "385573d4ba3ff72a-01",
+      "abbreviation": "MB",
+      "name": "Maale Bible"
+    },
+    "MNT": {
+      "id": "b5105cd03c972046-01",
+      "abbreviation": "MNT",
+      "name": "Makua New Testament"
+    },
+    "MKD": {
+      "id": "abf017938be72f46-01",
+      "abbreviation": "MKD",
+      "name": "Morokodo"
+    },
+    "Matumbi": {
+      "id": "f638e44feb77f803-01",
+      "abbreviation": "Matumbi",
+      "name": "The Holy Gospel of Jesus for the Matumbi"
+    },
+    "GHBS": {
+      "id": "4ffcec8e8f3c33e7-01",
+      "abbreviation": "AKS",
+      "name": "God's Holy Book in Sankaran"
+    },
+    "AruNT": {
+      "id": "5e51f89e89947acb-01",
+      "abbreviation": "AruNT",
+      "name": "Aruamu New Testament"
+    },
+    "Mwela": {
+      "id": "ed5744967fe39c8c-01",
+      "abbreviation": "Shimwela",
+      "name": "The New Testament in Mwela"
+    },
+    "NdBV": {
+      "id": "cb0425ae772bb042-01",
+      "abbreviation": "NdBV",
+      "name": "The New Testament in Ndamba"
+    },
+    "NgBV": {
+      "id": "324f457845cb5d21-01",
+      "abbreviation": "NgBV",
+      "name": "Nguu New Testament"
+    },
+    "NHO": {
+      "id": "312df00520eac624-01",
+      "abbreviation": "Takuu",
+      "name": "Takuu New Testament"
+    },
+    "nld1939": {
+      "id": "ead7b4cc5007389c-01",
+      "abbreviation": "NLD1939",
+      "name": "Dutch Bible 1939"
+    },
+    "oryirv": {
+      "id": "365f988242c307d2-02",
+      "abbreviation": "ORYIRV",
+      "name": "Oria Indian Revised Version Bible"
+    },
+    "IRVPun": {
+      "id": "e2588ba61891daa5-01",
+      "abbreviation": "IRVPun",
+      "name": "Indian Revised Version (IRV) Punjabi - 2019"
+    },
+    "polUBG": {
+      "id": "1c9761e0230da6e0-01",
+      "abbreviation": "UBG",
+      "name": "Updated Gdansk Bible"
+    },
+    "TfTP": {
+      "id": "90799bb5b996fddc-01",
+      "abbreviation": "TfTP",
+      "name": "Translation for Translators in Brasilian Portuguese"
+    },
+    "PBV": {
+      "id": "355792a03079ccdd-01",
+      "abbreviation": "PBV",
+      "name": "The New Testament in Pogoro"
+    },
+    "RNC": {
+      "id": "33ac978af36830fa-02",
+      "abbreviation": "RNC",
+      "name": "Carpathian Romani 2019"
+    },
+    "LBV": {
+      "id": "98d1c5bee401f80c-01",
+      "abbreviation": "LBV",
+      "name": "The New Testament in Lughulu"
+    },
+    "SANAS": {
+      "id": "bb3df4b7c8587c77-01",
+      "abbreviation": "SANAS",
+      "name": "Sanskrit Bible (NT) in Assamese Script (সত্যৱেদঃ।)"
+    },
+    "SANBN": {
+      "id": "8d1ad2c921d811c3-01",
+      "abbreviation": "SANBN",
+      "name": "Sanskrit Bible (NT) in Bengali Script"
+    },
+    "SANBU": {
+      "id": "9449d4ad98193779-01",
+      "abbreviation": "SANBU",
+      "name": "Sanskrit Bible (NT) in Burmese Script (သတျဝေဒး၊)"
+    },
+    "SANCO": {
+      "id": "33b6449cacf22773-01",
+      "abbreviation": "SANCO",
+      "name": "Sanskrit Bible (NT) in Cologne Script (satyavEdaH|)"
+    },
+    "SANGJ": {
+      "id": "e9ea572977b4f504-01",
+      "abbreviation": "SANGJ",
+      "name": "Sanskrit Bible (NT) in Gujarati Script (સત્યવેદઃ।)"
+    },
+    "SANHK": {
+      "id": "89007ccbb2eb5187-01",
+      "abbreviation": "SANHK",
+      "name": "Sanskrit Bible (NT) in Harvard-Kyoto Script (satyavedaH|)"
+    },
+    "SANIA": {
+      "id": "0b07fcef627a2db2-01",
+      "abbreviation": "SANIA",
+      "name": "Sanskrit Bible (NT) in IAST Script (satyavedaḥ|)"
+    },
+    "SANIS": {
+      "id": "d4599ff3c6b97f3a-01",
+      "abbreviation": "SANIS",
+      "name": "Sanskrit Bible (NT) in ISO Script (satyavēdaḥ|)"
+    },
+    "SANIT": {
+      "id": "6bc5ae3d6dd9009a-01",
+      "abbreviation": "SANIT",
+      "name": "Sanskrit Bible (NT) in ITRANS Script (satyavedaH|)"
+    },
+    "SANKA": {
+      "id": "c1f49ed98a65a544-01",
+      "abbreviation": "SANKA",
+      "name": "Sanskrit Bible (NT) in Kannada Script (ಸತ್ಯವೇದಃ।)"
+    },
+    "SANKH": {
+      "id": "6bb8b0fa7aca67c6-01",
+      "abbreviation": "SANKH",
+      "name": "Sanskrit Bible (NT) in Khmer Script (សត្យវេទះ។)"
+    },
+    "SANML": {
+      "id": "119375d97b57cf04-01",
+      "abbreviation": "SANML",
+      "name": "Sanskrit Bible (NT) in Malayalam Script (സത്യവേദഃ।)"
+    },
+    "SANOR": {
+      "id": "5a27fd2a2de187c8-01",
+      "abbreviation": "SANOR",
+      "name": "Sanskrit Bible (NT) in Oriya Script (ସତ୍ୟୱେଦଃ।)"
+    },
+    "SANPN": {
+      "id": "07225eadadcb079a-01",
+      "abbreviation": "SANPN",
+      "name": "Sanskrit Bible (NT) in Punjabi Script (ਸਤ੍ਯਵੇਦਃ।)"
+    },
+    "SANSI": {
+      "id": "2c2cf8df5a22a46e-01",
+      "abbreviation": "SANSI",
+      "name": "Sanskrit Bible (NT) in Sinhala Script (සත්‍යවේදඃ।)"
+    },
+    "SANTM": {
+      "id": "143e0e03cf5b12ae-01",
+      "abbreviation": "SANTM",
+      "name": "Sanskrit Bible (NT) in Tamil Script (ஸத்யவேத³​:।)"
+    },
+    "SANTE": {
+      "id": "aa146959e1d39b78-01",
+      "abbreviation": "SANTE",
+      "name": "Sanskrit Bible (NT) in Telugu Script (సత్యవేదః।)"
+    },
+    "SANTH": {
+      "id": "306d6ab1ca333a1e-01",
+      "abbreviation": "SANTH",
+      "name": "Sanskrit Bible (NT) in Thai Script (สตฺยเวท:ฯ)"
+    },
+    "SANTI": {
+      "id": "018ff00d7f55cbc1-01",
+      "abbreviation": "SANTI",
+      "name": "Sanskrit Bible (NT) in Tibetan Script (སཏྱཝེདཿ།)"
+    },
+    "SANUR": {
+      "id": "51b16e0b4b7c9825-01",
+      "abbreviation": "SANUR",
+      "name": "Sanskrit Bible (NT) in Urdu Script (سَتْیَویدَح۔)"
+    },
+    "SANVE": {
+      "id": "9a875168ff4df1a3-01",
+      "abbreviation": "SANVE",
+      "name": "Sanskrit Bible (NT) in Velthuis Script (satyaveda.h|)"
+    },
+    "SAN-DN": {
+      "id": "e8b40ccabe793c0d-01",
+      "abbreviation": "SAN-DN",
+      "name": "Sanskrit NT in Devanagari"
+    },
+    "SHJ": {
+      "id": "f95e2d9b384f8e6e-01",
+      "abbreviation": "SHJ",
+      "name": "Caning Bible Translation"
+    },
+    "RVR09": {
+      "id": "592420522e16049f-01",
+      "abbreviation": "RVR09",
+      "name": "Reina Valera 1909"
+    },
+    "VBL": {
+      "id": "482ddd53705278cc-01",
+      "abbreviation": "VBL",
+      "name": "The New Testament in Spanish, Free Bible Version"
+    },
+    "Akg-MkAc": {
+      "id": "2a65010324d677b6-01",
+      "abbreviation": "Akg-MkAc",
+      "name": "Akukem Portions for DBL"
+    },
+    "srp1865": {
+      "id": "06995ce9cd23361b-01",
+      "abbreviation": "SRP1865",
+      "name": "Serbian Bible"
+    },
+    "Susu": {
+      "id": "bbeb583cd75c6356-01",
+      "abbreviation": "Soso",
+      "name": "Susu Bible"
+    },
+    "AKS": {
+      "id": "2d5220a02a7aaac6-01",
+      "abbreviation": "AKS",
+      "name": "Susu Bible in Arabic Script"
+    },
+    "SKB": {
+      "id": "fa4317c59f0825e0-01",
+      "abbreviation": "SKB",
+      "name": "Swedish Core Bible - expanded"
+    },
+    "IRVTam": {
+      "id": "03a021185023710b-01",
+      "abbreviation": "IRVTam",
+      "name": "Indian Revised Version (IRV) Tamil - 2019"
+    },
+    "TayNT": {
+      "id": "8e3b1a957009c6ca-01",
+      "abbreviation": "TayNT",
+      "name": "New Testament in Tay"
+    },
+    "IRVTel": {
+      "id": "5b835ce16a1703ff-01",
+      "abbreviation": "IRVTel",
+      "name": "Indian Revised Version (IRV) Telugu - 2019"
+    },
+    "KJV": {
+      "id": "2eb94132ad61ae75-01",
+      "abbreviation": "KJV",
+      "name": "Thai KJV"
+    },
+    "GS": {
+      "id": "30cb581bcc911c45-01",
+      "abbreviation": "GS",
+      "name": "God's Book in Toma"
+    },
+    "tonRWV": {
+      "id": "25210406001d9aae-01",
+      "abbreviation": "RWV",
+      "name": "Tongan Revised West Translation"
+    },
+    "IRVUrd": {
+      "id": "de0270810140edf9-01",
+      "abbreviation": "IRVUrd",
+      "name": "Indian Revised Version (IRV) Urdu - 2019"
+    },
+    "SobP15": {
+      "id": "e01f11e9b4b8e338-01",
+      "abbreviation": "SobP15",
+      "name": "Sob Jonah and Luke"
+    },
+    "Vidunda": {
+      "id": "c2d40ebca6db1ec5-01",
+      "abbreviation": "Chividunda",
+      "name": "The Bible in Vidunda"
+    },
+    "Yalb": {
+      "id": "afe8f67d8ba9025c-01",
+      "abbreviation": "Kitabuna",
+      "name": "Yalunka Bible"
+    },
+    "yap": {
+      "id": "8a448a0135a6a70a-01",
+      "abbreviation": "YAP",
+      "name": "Yapese Bible"
+    },
+    "Kizalamo": {
+      "id": "7e7a704dd32c4280-01",
+      "abbreviation": "Kizalamo",
+      "name": "The New Testament in Zaramo"
+    },
+    "ZiBT": {
+      "id": "c9f3cf58d557a9f3-01",
+      "abbreviation": "ZiBT",
+      "name": "The New Testament in Zigua"
+    }
+  }
+}

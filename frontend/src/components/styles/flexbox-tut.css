@@ -1,0 +1,51 @@
+.header-right {
+    text-align: right;
+}
+
+#container {
+    margin-top: 20px;
+    border: 1px solid red;
+    display: flex;
+    height: 300px;
+    justify-content: space-evenly;
+    align-items: center;
+    /* Default behaivour of flex */
+    /* flex-direction: row;  */
+
+    /* Puts them in rows at the right side */
+    /* flex-direction: row-reverse;  */
+
+    /* Displays them like lis in a ul */
+    /* flex-direction: column; */
+
+    /* Like ul but reverse the order */
+    /* flex-direction: column-reverse;  */
+
+
+    /* flex-wrap: wrap; */
+    /* justify-content: flex-end; flex-start is default */
+    
+    
+}
+
+.right, .left {
+    border: 1px solid black;
+    margin: 0.5em;
+    padding: 0.5em
+    /* width: 500px;  to test flex-wrap*/ 
+}
+
+/* Ordered items go on the right, unorderd to the left(with normal direction)*/
+.right {
+    order: 1;
+    border: 3px dotted red;
+    /* first two arguments are growth/shrink rate. WHy and when to use I don't know */
+    flex-basis: 1 1 15em;
+}
+
+.left {
+    order: 2;
+    border: 3px dotted blue;
+    flex-basis: 2 2 15em;
+
+}
